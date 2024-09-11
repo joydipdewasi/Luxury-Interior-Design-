@@ -2,6 +2,8 @@ import React from 'react';
 import HeroPng from '../../assets/hero.png';
 
 const Hero = () => {
+  
+
   return (
     <>
     <div className="container">
