@@ -48,7 +48,7 @@ const Services = () => {
                     ServiceCard.map((card) => {
                         return(
 
-                            <div key={card.id} className="space-y-4 border-[1px] border-black/30 p-6 hover:bg-black hover:text-white hover:shadow-[7px_7px_0px_0px_#6c6c6c] duration-300">
+                            <div key={card.id} className="space-y-4 border-[1px] border-black/30 p-6 hover:bg-black hover:text-white hover:shadow-[7px_7px_0px_0px_#6c6c6c] duration-1000">
 
                                 <span className=" inline-block taxt-xl border-[1px] border-black rounded-full p-4">{card.icon}</span>
 

@@ -20,7 +20,7 @@ const Hero = () => {
               {/* button section */}
              <div className="space-x-4">
                 <button className="bg-black text-white px-5 py-2 rounded-md uppercase">Learn More</button>
-                <button className="primary-btn uppercase">Contact Us</button>
+                <button className="primary-btn  rounded-md ">Contact Us</button>
              </div>
             </div>
 
