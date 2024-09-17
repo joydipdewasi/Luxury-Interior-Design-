@@ -10,6 +10,7 @@ import { useState, useEffect } from "react";
 import CursorComponent from "./components/cursorComponent/CursorComponent";
 
 
+
 const App = () => {
   return (
     <>
@@ -20,7 +21,6 @@ const App = () => {
         <Services />
         <Banner />
         <Banner2 />
-        
       <CursorComponent />
       </div>
     </>

@@ -34,7 +34,7 @@ const Banner2 = () => {
 
                  {/* button section */}
                 <div>
-                <button className="primary-btn bg-black text-white shadow-[5px_5px_0px_0px_#6c6c6c]">Cpntact us</button>
+                <button className="primary-btn bg-black text-white shadow-[5px_5px_0px_0px_#6c6c6c]">Explor more Design</button>
                 </div>
             </div>
 
